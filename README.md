@@ -8,7 +8,7 @@
 [![Sputnik](https://sputnik.ci/conf/badge)](https://sputnik.ci/app#/builds/TouK/sputnik)
 [![Join the chat at https://gitter.im/TouK/sputnik](https://badges.gitter.im/TouK/sputnik.svg)](https://gitter.im/TouK/sputnik?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Usage
+## Usagee
 
 Sputnik runs Checkstyle, PMD, SpotBugs, CodeNarc, JSHint (or JSLint), TSLint, Ktlint and Detekt only on files affected by Gerrit's patchset. It collects all violations and report them back to Gerrit or Stash.
 
